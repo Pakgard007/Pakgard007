@@ -12,7 +12,7 @@
 
 - Autonomous vehicle systems (Master's research)  
 - Sensor fusion, real-time control, and robotics frameworks  
-- Arduino-based automation and **CAN Bus communication in vehicles**  
+- Arduino-based automation and CAN Bus communication in vehicles  
 
 ---
 
@@ -22,9 +22,12 @@
 
 ![autonomous-vehicle](https://your-image-link.com/autonomous-vehicle.jpg)
 
-### 3D Factory Design
+### Drone Project
 
-![factory-design](https://your-image-link.com/factory.png)
+Designed and built drones using Arduino as the flight controller,  
+integrated sensor data and motion control tailored for specific use cases.
+
+![drone-project](https://your-image-link.com/drone-project.png)
 
 ### Vehicle CAN Bus Data Reader
 
