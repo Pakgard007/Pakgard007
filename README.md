@@ -59,7 +59,7 @@ Implemented motor control, sensor integration, and communication systems for aer
 - 🤖 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ros/ros-original.svg" width="24"/> **ROS2 (Robot Operating System)**  
 - 🔌 <img src="https://img.icons8.com/color/24/000000/arduino.png"/> **Arduino IDE / PlatformIO**  
 - 💻 <img src="https://img.icons8.com/fluent/24/000000/visual-studio-code-2019.png"/> **VS Code**  
-- 🏗️ <img src="https://img.icons8.com/external-flat-juicy-fish/24/null/external-engineering-cyber-security-flat-juicy-fish.png"/> **AutoCAD / SketchUp / Lumion**
+- 🏗️ **AutoCAD / SketchUp / Lumion**
 - <img src="https://img.icons8.com/color/24/000000/adobe-photoshop.png"/> **Photoshop**, <img src="https://img.icons8.com/color/24/000000/figma--v1.png"/> **Figma**, <img src="https://img.icons8.com/color/24/000000/adobe-premiere-pro.png"/> **Premiere Pro**  
 - <img src="https://img.icons8.com/color/24/000000/linux.png"/> **Linux (Ubuntu)**  
 - 🧩 **MCP2515 + CAN Bus Modules**  
