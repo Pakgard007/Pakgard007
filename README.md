@@ -38,7 +38,7 @@ Used **YOLOP** for perception, **SLAM Toolbox** for localization, and **Pure Pur
 Designed and built drones using **Arduino** as the flight controller.  
 Implemented motor control, sensor integration, and communication systems for aerial applications.
 
-![drone-project](https://your-image-link.com/drone-project.png)
+![drone-project]([https://your-image-link.com/drone-project.png](https://github.com/Pakgard007/Pakgard007/blob/main/%E0%B8%AA%E0%B8%81%E0%B8%A3%E0%B8%B5%E0%B8%99%E0%B8%8A%E0%B9%87%E0%B8%AD%E0%B8%95%202025-07-07%20111739.png))
 
 ---
 
@@ -47,7 +47,7 @@ Implemented motor control, sensor integration, and communication systems for aer
 📥 Read real-time vehicle data such as **speed**, **steering angle**, and **sensor values** via CAN Bus  
 ⚙️ Built using **Arduino + MCP2515**, displayed via **Serial** and integrated into **ROS2** system
 
-![canbus](https://your-image-link.com/canbus-project.png)
+![canbus]([https://your-image-link.com/canbus-project.png](https://github.com/Pakgard007/Pakgard007/blob/main/f2832cb3-46ff-4597-8a10-6e75a255f22b.jpeg))
 
 ---
 
