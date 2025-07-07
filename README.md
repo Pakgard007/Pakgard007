@@ -26,9 +26,9 @@ Used **YOLOP** for perception, **SLAM Toolbox** for localization, and **Pure Pur
 ✅ Successfully tested in the **F1TENTH Korea Championship 2023**.
 
 <p align="center">
-  <img src="https://github.com/Pakgard007/Pakgard007/blob/main/753f52b6-5f36-40e9-b6ba-9d0e4a22b14f.jpeg?raw=true" width="30%" />
-  <img src="https://github.com/Pakgard007/Pakgard007/blob/main/Picture1.jpg?raw=true" width="30%" />
-  <img src="https://github.com/Pakgard007/Pakgard007/blob/main/d8a81dc6-d901-46d4-8fd7-4a51194e09bd.jpeg?raw=true" width="30%" />
+  <img src="https://github.com/Pakgard007/Pakgard007/blob/main/753f52b6-5f36-40e9-b6ba-9d0e4a22b14f.jpeg?raw=true" width="25%" />
+  <img src="https://github.com/Pakgard007/Pakgard007/blob/main/Picture1.jpg?raw=true" width="25%" />
+  <img src="https://github.com/Pakgard007/Pakgard007/blob/main/d8a81dc6-d901-46d4-8fd7-4a51194e09bd.jpeg?raw=true" width="25%" />
 </p>
 
 ---
@@ -39,7 +39,7 @@ Designed and built drones using **Arduino** as the flight controller.
 Implemented motor control, sensor integration, and communication systems for aerial applications.
 
 <p align="center">
-  <img src="https://github.com/Pakgard007/Pakgard007/blob/main/สกรีนช็อต%202025-07-07%20111739.png?raw=true" width="400"/>
+  <img src="https://github.com/Pakgard007/Pakgard007/blob/main/สกรีนช็อต%202025-07-07%20111739.png?raw=true" width="300"/>
 </p>
 
 ---
@@ -50,7 +50,7 @@ Implemented motor control, sensor integration, and communication systems for aer
 ⚙️ Built using **Arduino + MCP2515**, displayed via **Serial** and integrated into **ROS2** system
 
 <p align="center">
-  <img src="https://github.com/Pakgard007/Pakgard007/blob/main/f2832cb3-46ff-4597-8a10-6e75a255f22b.jpeg?raw=true" width="400"/>
+  <img src="https://github.com/Pakgard007/Pakgard007/blob/main/f2832cb3-46ff-4597-8a10-6e75a255f22b.jpeg?raw=true" width="300"/>
 </p>
 
 ---
