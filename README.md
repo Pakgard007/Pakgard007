@@ -58,7 +58,7 @@ Implemented motor control, sensor integration, and communication systems for aer
 ### 🧰 Tools & Frameworks  
 - <img src="https://raw.githubusercontent.com/ros/ros_logo/master/hydro_vector.svg" width="24"/> **ROS2 (Robot Operating System)**  
 - <img src="https://img.icons8.com/color/24/000000/arduino.png"/> **Arduino IDE / PlatformIO**  
-- <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/null/external-visual-studio-code-a-source-code-editor-developed-by-microsoft-logo-color-tal-revivo.png"/> **VS Code**  
+- <img src="[https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/null/external-visual-studio-code-a-source-code-editor-developed-by-microsoft-logo-color-tal-revivo.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fth.wikipedia.org%2Fwiki%2F%25E0%25B8%25A7%25E0%25B8%25B4%25E0%25B8%258A%25E0%25B8%25A7%25E0%25B8%25A5%25E0%25B8%25AA%25E0%25B8%2595%25E0%25B8%25B9%25E0%25B8%2594%25E0%25B8%25B4%25E0%25B9%2582%25E0%25B8%25AD%25E0%25B9%2582%25E0%25B8%2584%25E0%25B9%2589%25E0%25B8%2594&psig=AOvVaw2Slf5zPgCio5ZCvb1nBvwe&ust=1751947539674000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOjbi6fvqY4DFQAAAAAdAAAAABAE)"/> **VS Code**  
 - <img src="https://img.icons8.com/color/24/000000/sketchup.png"/> **AutoCAD / SketchUp / Lumion**  
 - <img src="https://img.icons8.com/color/24/000000/adobe-photoshop.png"/> **Photoshop**, <img src="https://img.icons8.com/color/24/000000/figma--v1.png"/> **Figma**, <img src="https://img.icons8.com/color/24/000000/adobe-premiere-pro.png"/> **Premiere Pro**  
 - <img src="https://img.icons8.com/color/24/000000/linux.png"/> **Linux (Ubuntu)**  
