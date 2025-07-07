@@ -1,99 +1,56 @@
-<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28">, I'm Poomtham Chaiyapoom</h1>  
-<h3 align="center">Control Systems and Instrumentation Engineering Student | Robotics & Embedded Systems Enthusiast</h3>
+# 👋 Hi, I'm Poomtham Chaiyapoom
+
+🎓 Control Systems and Instrumentation Engineering student at KMUTT  
+🤖 Passionate about robotics, embedded systems, and automation  
+🚗 Studying autonomous vehicle systems using ROS2, LiDAR, GPS, IMU & stereo camera  
+📍 Participated in F1TENTH Korea 2023 with real-world ROS testing  
+📬 Contact: poomtham.chaiyapoom@gmail.com
 
 ---
 
-<p align="center">
-  <img src="https://your-image-link.com/banner.jpg" width="100%" alt="Banner or Hero Image"/>
-</p>
+## 🧠 What I'm Working On
+
+- Autonomous vehicle systems (Master's research)  
+- Sensor fusion, real-time control, and robotics frameworks  
+- Arduino-based automation and multi-drone control with Python  
 
 ---
 
-### 🚀 About Me
+## 🖼️ Projects
 
-- 🎓 Control Engineering student at KMUTT  
-- 🤖 Experienced in embedded systems, circuit design, and robotics  
-- 🌐 Participated in F1TENTH Korea 2023 – autonomous vehicle with ROS & Linux  
-- 🛠️ Worked with Arduino, Python, AutoCAD, SketchUp, and ROS-based systems  
-- 🏗️ Designed 3D factory models and IoT-based automation systems  
+### ROS2 Autonomous Vehicle
 
----
+![autonomous-vehicle](https://your-image-link.com/autonomous-vehicle.jpg)
 
-### 📌 Current Status
+### 3D Factory Design
 
-- 🌍 Based in: **Thailand | KMUTT**  
-- 📧 Contact: [poomtham.chaiyapoom@gmail.com](mailto:poomtham.chaiyapoom@gmail.com)  
-- 🚗 Currently studying: **Autonomous vehicle systems using ROS2, LiDAR, GPS, IMU, and stereo cameras** *(Master’s degree research)*  
-- 🧠 Learning: Advanced robotics frameworks, sensor fusion, real-time control  
-- 🤝 Open to: ROS-based robotics, embedded systems, and automation projects  
-- ⚡ Fun fact: I once programmed a drone fleet to fly in formation – and blinking LEDs still excite me 😄  
+![factory-design](https://your-image-link.com/factory.png)
+
+### Drone Formation with Python
+
+![drones](https://your-image-link.com/drone-formation.png)
 
 ---
 
-### 🖼️ Project Showcase
+## 💻 Skills
 
-#### 📍 Autonomous Vehicle – Real-World Testing with ROS2
-
-<p align="center">
-  <img src="https://your-image-link.com/ros-vehicle.png" width="700" alt="Autonomous Vehicle"/>
-</p>
-
-#### 🛠️ 3D Factory Design (SketchUp + Lumion)
-
-<p align="center">
-  <img src="https://your-image-link.com/factory-design.png" width="700" alt="Factory Model"/>
-</p>
-
-#### 🚁 Drone Formation Control using Python
-
-<p align="center">
-  <img src="https://your-image-link.com/drones.png" width="700" alt="Drone Formation"/>
-</p>
-
-> _Tip: You can replace the links with your actual image URLs or local `/assets/*.png` path_
+C / C++ | Python | Arduino | Linux | ROS2 | AutoCAD | SketchUp | Photoshop | Figma | Raspberry Pi  
+Embedded Systems | Control Systems | IoT | Real-Time Applications  
 
 ---
 
-### 🛠️ Skills
+## 🔗 Socials
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36"/>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36"/>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36"/>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36"/>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36"/>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" width="36" height="36"/>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36"/>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36"/>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sketch-colored.svg" width="36" height="36"/>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36"/>
-</p>
+- GitHub: [Pakgard007](https://github.com/Pakgard007)  
+- TikTok: [@pakgard.pc](https://www.tiktok.com/@pakgard.pc?_t=ZS-8xomy4pfiG9&_r=1)  
 
 ---
 
-### 🌐 Socials
+## 📊 GitHub Stats
 
-<p align="left">
-  <a href="https://github.com/Pakgard007" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-  </a>
-  <a href="https://www.tiktok.com/@pakgard.pc?_t=ZS-8xomy4pfiG9&_r=1" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/3046/3046122.png" width="32" height="32" alt="TikTok"/>
-  </a>
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pakgard007&show_icons=true&theme=default&hide_border=false)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pakgard007&layout=compact&theme=default&hide_border=false)
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pakgard007&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pakgard007&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</p>
-
----
-
-
+⚡ *Fun fact:* I once programmed a drone fleet to fly in formation – and yes, blinking LEDs still make me smile 😄
