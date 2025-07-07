@@ -12,7 +12,7 @@
 
 - Autonomous vehicle systems (Master's research)  
 - Sensor fusion, real-time control, and robotics frameworks  
-- Arduino-based automation and multi-drone control with Python  
+- Arduino-based automation and **CAN Bus communication in vehicles**  
 
 ---
 
@@ -26,9 +26,12 @@
 
 ![factory-design](https://your-image-link.com/factory.png)
 
-### Drone Formation with Python
+### Vehicle CAN Bus Data Reader
 
-![drones](https://your-image-link.com/drone-formation.png)
+Reading real-time speed, steering angle, and sensor data from automotive CAN Bus  
+Implemented with MCP2515 on Arduino and integrated with ROS 2 system
+
+![canbus](https://your-image-link.com/canbus-project.png)
 
 ---
 
