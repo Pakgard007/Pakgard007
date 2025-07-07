@@ -26,9 +26,9 @@ Used **YOLOP** for perception, **SLAM Toolbox** for localization, and **Pure Pur
 ✅ Successfully tested in the **F1TENTH Korea Championship 2023**.
 
 <p align="center">
-  <img src="[https://your-image-link.com/image1.png](https://github.com/Pakgard007/Pakgard007/blob/main/753f52b6-5f36-40e9-b6ba-9d0e4a22b14f.jpeg)" width="30%" />
-  <img src="[https://your-image-link.com/image2.png](https://github.com/Pakgard007/Pakgard007/blob/main/Picture1.jpg)" width="30%" />
-  <img src="[https://your-image-link.com/image3.png](https://github.com/Pakgard007/Pakgard007/blob/main/d8a81dc6-d901-46d4-8fd7-4a51194e09bd.jpeg)" width="30%" />
+  <img src="https://github.com/Pakgard007/Pakgard007/blob/main/753f52b6-5f36-40e9-b6ba-9d0e4a22b14f.jpeg?raw=true" width="30%" />
+  <img src="https://github.com/Pakgard007/Pakgard007/blob/main/Picture1.jpg?raw=true" width="30%" />
+  <img src="https://github.com/Pakgard007/Pakgard007/blob/main/d8a81dc6-d901-46d4-8fd7-4a51194e09bd.jpeg?raw=true" width="30%" />
 </p>
 
 ---
@@ -38,7 +38,7 @@ Used **YOLOP** for perception, **SLAM Toolbox** for localization, and **Pure Pur
 Designed and built drones using **Arduino** as the flight controller.  
 Implemented motor control, sensor integration, and communication systems for aerial applications.
 
-![drone-project]([https://your-image-link.com/drone-project.png](https://github.com/Pakgard007/Pakgard007/blob/main/%E0%B8%AA%E0%B8%81%E0%B8%A3%E0%B8%B5%E0%B8%99%E0%B8%8A%E0%B9%87%E0%B8%AD%E0%B8%95%202025-07-07%20111739.png))
+![drone-project](https://github.com/Pakgard007/Pakgard007/blob/main/สกรีนช็อต%202025-07-07%20111739.png?raw=true)
 
 ---
 
@@ -47,7 +47,7 @@ Implemented motor control, sensor integration, and communication systems for aer
 📥 Read real-time vehicle data such as **speed**, **steering angle**, and **sensor values** via CAN Bus  
 ⚙️ Built using **Arduino + MCP2515**, displayed via **Serial** and integrated into **ROS2** system
 
-![canbus]([https://your-image-link.com/canbus-project.png](https://github.com/Pakgard007/Pakgard007/blob/main/f2832cb3-46ff-4597-8a10-6e75a255f22b.jpeg))
+![canbus](https://github.com/Pakgard007/Pakgard007/blob/main/f2832cb3-46ff-4597-8a10-6e75a255f22b.jpeg?raw=true)
 
 ---
 
@@ -63,7 +63,7 @@ Implemented motor control, sensor integration, and communication systems for aer
 - 🤖 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ros/ros-original.svg" width="24"/> **ROS2 (Robot Operating System)**  
 - 🔌 <img src="https://img.icons8.com/color/24/000000/arduino.png"/> **Arduino IDE / PlatformIO**  
 - 💻 <img src="https://img.icons8.com/fluent/24/000000/visual-studio-code-2019.png"/> **VS Code**  
-- 🏗️ **AutoCAD / SketchUp / Lumion**
+- 🏗️ **AutoCAD / SketchUp / Lumion**  
 - <img src="https://img.icons8.com/color/24/000000/adobe-photoshop.png"/> **Photoshop**, <img src="https://img.icons8.com/color/24/000000/figma--v1.png"/> **Figma**, <img src="https://img.icons8.com/color/24/000000/adobe-premiere-pro.png"/> **Premiere Pro**  
 - <img src="https://img.icons8.com/color/24/000000/linux.png"/> **Linux (Ubuntu)**  
 - 🧩 **MCP2515 + CAN Bus Modules**  
