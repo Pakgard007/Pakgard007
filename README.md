@@ -18,9 +18,13 @@
 
 ## 🖼️ Projects
 
-### ROS2 Autonomous Vehicle
+### ROS2 Autonomous Vehicle & F1TENTH Korea 2023
 
-![autonomous-vehicle](https://your-image-link.com/autonomous-vehicle.jpg)
+Designed and implemented an autonomous vehicle system using ROS2 on Linux, integrating LiDAR, GPS, IMU, and stereo camera.  
+Used YOLOP for perception, SLAM for localization, and Pure Pursuit for real-time path tracking.  
+Successfully tested in real environments during the **F1TENTH Korea Championship 2023** in Yeosu-si, South Korea.
+
+![ros-vehicle](https://your-image-link.com/ros-autonomous-vehicle.png)
 
 ### Drone Project
 
@@ -35,7 +39,6 @@ Reading real-time speed, steering angle, and sensor data from automotive CAN Bus
 Implemented with MCP2515 on Arduino and integrated with ROS 2 system
 
 ![canbus](https://your-image-link.com/canbus-project.png)
-
 ---
 
 ## 💻 Skills
