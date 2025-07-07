@@ -47,7 +47,7 @@ Implemented motor control, sensor integration, and communication systems for aer
 ### 🚙 Vehicle CAN Bus Data Reader
 
 📥 Read real-time vehicle data such as **speed**, **steering angle**, and **sensor values** via CAN Bus  
-⚙️ Built using **Arduino + MCP2515**, displayed via **Serial** and integrated into **ROS2** system
+⚙️ displayed via **Serial** and integrated into **ROS2** system
 
 <p align="center">
   <img src="https://github.com/Pakgard007/Pakgard007/blob/main/f2832cb3-46ff-4597-8a10-6e75a255f22b.jpeg?raw=true" width="200"/>
