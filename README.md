@@ -77,8 +77,8 @@ Implemented motor control, sensor integration, and communication systems for aer
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pakgard007&show_icons=true&theme=default&hide_border=false)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pakgard007&layout=compact&theme=default&hide_border=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pakgard007&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pakgard007&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages)
 
 ---
 
