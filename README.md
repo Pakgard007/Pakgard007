@@ -25,7 +25,11 @@ Designed and implemented an autonomous vehicle system using **ROS2** on Linux, i
 Used **YOLOP** for perception, **SLAM Toolbox** for localization, and **Pure Pursuit** for real-time path tracking.  
 ✅ Successfully tested in the **F1TENTH Korea Championship 2023**.
 
-![ros-vehicle](https://your-image-link.com/ros-autonomous-vehicle.png)
+<p align="center">
+  <img src="https://your-image-link.com/image1.png" width="30%" />
+  <img src="https://your-image-link.com/image2.png" width="30%" />
+  <img src="https://your-image-link.com/image3.png" width="30%" />
+</p>
 
 ---
 
