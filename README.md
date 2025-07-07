@@ -8,12 +8,12 @@
 
 ---
 
-## 🧠 What I'm Working On
+## 🚀 What I'm Working On
 
-- Autonomous vehicle systems (Master's research)  
-- Sensor fusion, real-time control, and robotics frameworks  
-- CAN Bus communication with embedded controllers  
-- Arduino-based automation and UAV development  
+- 🛠️ Autonomous vehicle systems (**Master's research**)  
+- 🧠 Sensor fusion, real-time control, and robotics frameworks  
+- 📡 CAN Bus communication with embedded controllers  
+- 🔧 Arduino-based automation and UAV development  
 
 ---
 
@@ -23,7 +23,7 @@
 
 Designed and implemented an autonomous vehicle system using **ROS2** on Linux, integrating **LiDAR**, **GPS**, **IMU**, and **ZED stereo camera**.  
 Used **YOLOP** for perception, **SLAM Toolbox** for localization, and **Pure Pursuit** for real-time path tracking.  
-Successfully tested on real roads and at the **F1TENTH Korea Championship 2023**.
+✅ Successfully tested in the **F1TENTH Korea Championship 2023**.
 
 ![ros-vehicle](https://your-image-link.com/ros-autonomous-vehicle.png)
 
@@ -31,8 +31,8 @@ Successfully tested on real roads and at the **F1TENTH Korea Championship 2023**
 
 ### 🚁 Drone Project (Arduino-based UAV)
 
-Developed drones using **Arduino** as the flight controller.  
-Implemented motor control, sensor integration, and communication for specific aerial applications.
+Designed and built drones using **Arduino** as the flight controller.  
+Implemented motor control, sensor integration, and communication systems for aerial applications.
 
 ![drone-project](https://your-image-link.com/drone-project.png)
 
@@ -40,8 +40,8 @@ Implemented motor control, sensor integration, and communication for specific ae
 
 ### 🚙 Vehicle CAN Bus Data Reader
 
-Read real-time vehicle data such as **speed**, **steering angle**, and **sensor values** from the CAN Bus system.  
-Built using **Arduino + MCP2515**, displayed via **Serial** and integrated into **ROS2** for autonomous logic.
+📥 Read real-time vehicle data such as **speed**, **steering angle**, and **sensor values** via CAN Bus  
+⚙️ Built using **Arduino + MCP2515**, displayed via **Serial** and integrated into **ROS2** system
 
 ![canbus](https://your-image-link.com/canbus-project.png)
 
@@ -49,28 +49,29 @@ Built using **Arduino + MCP2515**, displayed via **Serial** and integrated into 
 
 ## 💻 Programming Languages & Tools
 
-### 🧠 Programming Languages  
-- **C / C++** – Embedded development, microcontrollers  
-- **Python** – Robotics (ROS2), automation scripts, data parsing  
-- **Shell Script / Bash** – ROS2 environment, automation  
-- **SQL** – Data logging & reporting (basic level)  
+### 🧑‍💻 Languages  
+- <img src="https://img.icons8.com/color/24/000000/c-plus-plus-logo.png"/> **C / C++** – Embedded development  
+- <img src="https://img.icons8.com/color/24/000000/python.png"/> **Python** – ROS2, data handling  
+- <img src="https://img.icons8.com/color/24/000000/console.png"/> **Shell / Bash** – Linux scripting  
+- <img src="https://img.icons8.com/external-soft-fill-juicy-fish/24/null/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png"/> **SQL** – Data logging (basic)
 
-### ⚙️ Tools & Frameworks  
-- **ROS2 (Robot Operating System)**  
-- **Arduino IDE / PlatformIO**  
-- **AutoCAD / SketchUp / Lumion** – 3D modeling & rendering  
-- **Photoshop / Figma / Premiere Pro** – Design & editing  
-- **Linux (Ubuntu)** – Robotics system development  
-- **CAN Bus (MCP2515)** – Vehicle data communication  
-- **ZED SDK / YOLOP / SLAM Toolbox / Pure Pursuit** – Perception and localization  
+### 🧰 Tools & Frameworks  
+- <img src="https://raw.githubusercontent.com/ros/ros_logo/master/hydro_vector.svg" width="24"/> **ROS2 (Robot Operating System)**  
+- <img src="https://img.icons8.com/color/24/000000/arduino.png"/> **Arduino IDE / PlatformIO**  
+- <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/null/external-visual-studio-code-a-source-code-editor-developed-by-microsoft-logo-color-tal-revivo.png"/> **VS Code**  
+- <img src="https://img.icons8.com/color/24/000000/sketchup.png"/> **AutoCAD / SketchUp / Lumion**  
+- <img src="https://img.icons8.com/color/24/000000/adobe-photoshop.png"/> **Photoshop**, <img src="https://img.icons8.com/color/24/000000/figma--v1.png"/> **Figma**, <img src="https://img.icons8.com/color/24/000000/adobe-premiere-pro.png"/> **Premiere Pro**  
+- <img src="https://img.icons8.com/color/24/000000/linux.png"/> **Linux (Ubuntu)**  
+- 🧩 **MCP2515 + CAN Bus Modules**  
+- 🎯 **ZED SDK / YOLOP / SLAM Toolbox / Pure Pursuit**
 
 ---
 
-## 🔗 Socials
+## 🌐 Socials
 
-- GitHub: [Pakgard007](https://github.com/Pakgard007)  
-- TikTok: [@pakgard.pc](https://www.tiktok.com/@pakgard.pc?_t=ZS-8xomy4pfiG9&_r=1)  
-- Email: [poomtham.chaiyapoom@gmail.com](mailto:poomtham.chaiyapoom@gmail.com)
+- 🐙 GitHub: [Pakgard007](https://github.com/Pakgard007)  
+- 🎥 TikTok: [@pakgard.pc](https://www.tiktok.com/@pakgard.pc?_t=ZS-8xomy4pfiG9&_r=1)  
+- 📧 Email: [poomtham.chaiyapoom@gmail.com](mailto:poomtham.chaiyapoom@gmail.com)
 
 ---
 
