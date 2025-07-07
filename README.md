@@ -39,7 +39,7 @@ Designed and built drones using **Arduino** as the flight controller.
 Implemented motor control, sensor integration, and communication systems for aerial applications.
 
 <p align="center">
-  <img src="https://github.com/Pakgard007/Pakgard007/blob/main/สกรีนช็อต%202025-07-07%20111739.png?raw=true" width="300"/>
+  <img src="https://github.com/Pakgard007/Pakgard007/blob/main/สกรีนช็อต%202025-07-07%20111739.png?raw=true" width="200"/>
 </p>
 
 ---
@@ -50,7 +50,7 @@ Implemented motor control, sensor integration, and communication systems for aer
 ⚙️ Built using **Arduino + MCP2515**, displayed via **Serial** and integrated into **ROS2** system
 
 <p align="center">
-  <img src="https://github.com/Pakgard007/Pakgard007/blob/main/f2832cb3-46ff-4597-8a10-6e75a255f22b.jpeg?raw=true" width="300"/>
+  <img src="https://github.com/Pakgard007/Pakgard007/blob/main/f2832cb3-46ff-4597-8a10-6e75a255f22b.jpeg?raw=true" width="200"/>
 </p>
 
 ---
