@@ -76,8 +76,6 @@ Implemented motor control, sensor integration, and communication systems for aer
 ---
 
 ## 🌐 Socials
-
-- 🐙 GitHub: [Pakgard007](https://github.com/Pakgard007)  
 - 🎥 TikTok: [@pakgard.pc](https://www.tiktok.com/@pakgard.pc?_t=ZS-8xomy4pfiG9&_r=1)  
 - 📧 Email: [poomtham.chaiyapoom@gmail.com](mailto:poomtham.chaiyapoom@gmail.com)
 
