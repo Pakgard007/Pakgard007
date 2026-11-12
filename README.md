@@ -159,38 +159,40 @@ Implemented motor control, sensor integration, and communication systems for aer
 
 ---
 
-## 💻 Programming Languages & Tools
+## 💻 Languages & Tools
 
-### 🧑‍💻 Languages  
-- <img src="https://img.icons8.com/color/24/000000/c-plus-plus-logo.png"/> **C / C++** – Embedded development, ROS 2 nodes  
-- <img src="https://img.icons8.com/color/24/000000/python.png"/> **Python** – ROS 2, data handling  
-- <img src="https://img.icons8.com/color/24/000000/console.png"/> **Shell / Bash** – Linux scripting  
-- <img src="https://img.icons8.com/external-soft-fill-juicy-fish/24/null/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png"/> **SQL** – Data logging (basic)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,bash,ros,arduino,linux,ubuntu,vscode,git,threejs,figma,ps,pr&perline=7" />
+</p>
 
-### 🧰 Tools & Frameworks  
-- 🤖 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ros/ros-original.svg" width="24"/> **ROS 2 (Robot Operating System)** · micro-ROS  
-- 🗺️ **LIO-SAM / NDT localization / PCL** · Ouster LiDAR · u-blox RTK GNSS  
-- 🌐 **MapLibre GL / three.js** – web 3D maps  
-- 🔌 <img src="https://img.icons8.com/color/24/000000/arduino.png"/> **Arduino IDE / PlatformIO** · **STM32CubeIDE**  
-- 💻 <img src="https://img.icons8.com/fluent/24/000000/visual-studio-code-2019.png"/> **VS Code**  
-- 🏗️ **AutoCAD / SketchUp / Lumion**  
-- <img src="https://img.icons8.com/color/24/000000/adobe-photoshop.png"/> **Photoshop**, <img src="https://img.icons8.com/color/24/000000/figma--v1.png"/> **Figma**, <img src="https://img.icons8.com/color/24/000000/adobe-premiere-pro.png"/> **Premiere Pro**  
-- <img src="https://img.icons8.com/color/24/000000/linux.png"/> **Linux (Ubuntu)**  
-- 🧩 **SocketCAN / MCP2515 + CAN Bus Modules**  
-- 🎯 **ZED SDK / YOLOP / SLAM Toolbox / Pure Pursuit / CBF-QP**
-
----
-
-## 🌐 Socials
-- 🎥 TikTok: [@pakgard.pc](https://www.tiktok.com/@pakgard.pc?_t=ZS-8xomy4pfiG9&_r=1)  
-- 📧 Email: [poomtham.chaiyapoom@gmail.com](mailto:poomtham.chaiyapoom@gmail.com)
+| Area | Stack |
+|---|---|
+| 🧑‍💻 **Languages** | C / C++ (embedded, ROS 2 nodes) · Python (ROS 2, data) · Bash · SQL (basic) |
+| 🤖 **Robotics** | ROS 2 · micro-ROS · LIO-SAM · NDT localization · PCL · SLAM Toolbox · Pure Pursuit · CBF-QP |
+| 📡 **Sensors** | Ouster LiDAR · Hokuyo · u-blox RTK GNSS + NTRIP · Xsens MTi · ICM-20948 IMU · ZED 2i |
+| 🔌 **Embedded** | STM32CubeIDE · Arduino IDE / PlatformIO · SocketCAN · MCP2515 CAN modules · VESC |
+| 👁️ **Perception** | ZED SDK · YOLOP |
+| 🌐 **Web** | MapLibre GL · three.js |
+| 🎨 **Design** | AutoCAD · SketchUp · Lumion · Photoshop · Figma · Premiere Pro |
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pakgard007&show_icons=true&theme=tokyonight&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pakgard007&layout=compact&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pakgard007&theme=tokyonight" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pakgard007&theme=tokyonight" height="165" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Pakgard007&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🌐 Contact
+
+[![TikTok](https://img.shields.io/badge/TikTok-@pakgard.pc-000000?logo=tiktok&logoColor=white)](https://www.tiktok.com/@pakgard.pc)
+[![Email](https://img.shields.io/badge/Email-poomtham.chaiyapoom%40gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:poomtham.chaiyapoom@gmail.com)
 
 ---
 
