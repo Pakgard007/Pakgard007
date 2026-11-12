@@ -1,4 +1,17 @@
+<div align="center">
+
 # 👋 Hi, I'm Poomtham Chaiyapoom
+
+**Robotics & Autonomous Vehicles · ROS 2 · Embedded Systems** — KMUTT
+
+![ROS 2](https://img.shields.io/badge/ROS%202-Humble-22314E?logo=ros)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![LiDAR](https://img.shields.io/badge/LiDAR-SLAM%20%7C%20NDT-0A7BBB)
+![CAN](https://img.shields.io/badge/CAN%20Bus-STM32%20%7C%20Arduino-03234B)
+![Linux](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
+
+</div>
 
 🎓 Control Systems and Instrumentation Engineering student at KMUTT  
 🤖 Passionate about robotics, embedded systems, and automation  
@@ -21,8 +34,8 @@
 
 | | Project | Highlights |
 |---|---|---|
-| 🛺 | [Autonomous Golf Cart — Mapping & Localization](#-autonomous-golf-cart--3d-mapping--localization) | ROS 2 · LIO-SAM · NDT · RTK · CBF-QP · CAN · STM32 |
-| 🚗 | [ROS 2 Autonomous Vehicle & F1TENTH Korea 2023](#-ros-2-autonomous-vehicle--f1tenth-korea-2023) | YOLOP · ZED 2i · SLAM Toolbox · Pure Pursuit |
+| 🛺 | [Autonomous Golf Cart — Mapping, Localization & ModRide](#-autonomous-golf-cart--3d-mapping--localization) | ROS 2 · LIO-SAM · NDT · RTK · CBF-QP · CAN · STM32 · Web 3D map |
+| 🚗 | [ROS 2 Autonomous Vehicle & F1TENTH Korea 2023](#-ros-2-autonomous-vehicle--f1tenth-korea-2023) | YOLOP · ZED 2i · SLAM Toolbox · Pure Pursuit · RC car |
 | 🚙 | [Vehicle CAN Bus Data Reader & Motor Control](#-vehicle-can-bus-data-reader--motor-control) | CAN · SDO · ROS 2 |
 | 🔌 | [micro-ROS Embedded Nodes](#-micro-ros-embedded-nodes) | micro-ROS · Arduino · SPI |
 | 🛰️ | [Xsens MTi IMU/GNSS Driver + NTRIP](#-xsens-mti-imugnss-driver--ntrip) | ROS 2 driver · RTK |
@@ -43,17 +56,26 @@ End-to-end autonomy stack for an electric golf cart on the KMUTT campus, in two 
    → CAN → STM32 throttle/brake board and KEYA steering motor.
 
 Custom RViz panels start each step with one button and show a to-scale cart model on the map.
+**ModRide** is the passenger-facing web app: a 3D campus map to pick a destination building and
+watch the cart's live position streamed from the localization stack.
 
 | Repo | What's inside |
 |---|---|
 | 🗺️ [**Mapping**](https://github.com/Pakgard007/Mapping) | LIO-SAM (Ouster 128 + GPS + wheel speed), mapping RViz panel, NTRIP client, CAN low-level, STM32 firmware |
 | 📍 [**Localize_get_path**](https://github.com/Pakgard007/Localize_get_path) | NDT localization, cart RViz panel, path follower, CBF-QP controller, campus buildings overlay |
 | 💾 [**golfcart-maps**](https://github.com/Pakgard007/golfcart-maps) | Point cloud maps (`.pcd`) in Releases |
+| 🐜 [**ModRide**](https://github.com/Pakgard007/ModRide) | Web 3D campus map: pick a building, pickup points, live 3D cart position (MapLibre + three.js) |
 
-<p align="center">
-  <img src="https://github.com/Pakgard007/Mapping/blob/main/docs/golfcart_low_level_control_overview.png?raw=true" width="70%" />
-  <br/><sub>Low-level control: ROS 2 ↔ CAN ↔ STM32 (speed / brake) + KEYA steering</sub>
-</p>
+<table>
+  <tr>
+    <td width="50%"><img src="https://github.com/Pakgard007/ModRide/blob/main/docs/screenshot-desktop.png?raw=true" /></td>
+    <td width="50%"><img src="https://github.com/Pakgard007/Mapping/blob/main/docs/golfcart_low_level_control_overview.png?raw=true" /></td>
+  </tr>
+  <tr>
+    <td align="center"><sub>ModRide — 3D campus map with live cart position</sub></td>
+    <td align="center"><sub>Low-level control: ROS 2 ↔ CAN ↔ STM32 (speed / brake) + KEYA steering</sub></td>
+  </tr>
+</table>
 
 ---
 
@@ -63,7 +85,8 @@ Designed and implemented an autonomous vehicle system using **ROS 2** on Linux, 
 Used **YOLOP** for perception, **SLAM Toolbox** for localization, and **Pure Pursuit** for real-time path tracking.  
 ✅ Successfully tested in the **F1TENTH Korea Championship 2023**.
 
-🔗 [ZED-2i_Lane_Object_Detection_](https://github.com/Pakgard007/ZED-2i_Lane_Object_Detection_) — YOLOP drivable area & lane detection + ZED 2i 3D object detection
+🔗 [ZED-2i_Lane_Object_Detection_](https://github.com/Pakgard007/ZED-2i_Lane_Object_Detection_) — YOLOP drivable area & lane detection + ZED 2i 3D object detection  
+🔗 [INC493_final](https://github.com/Pakgard007/INC493_final) — 1/10 RC car with VESC, Hokuyo LiDAR, joystick manual/auto modes and micro-ROS IMU/encoder
 
 <p align="center">
   <img src="https://github.com/Pakgard007/Pakgard007/blob/main/753f52b6-5f36-40e9-b6ba-9d0e4a22b14f.jpeg?raw=true" width="25%" />
@@ -123,6 +146,7 @@ Implemented motor control, sensor integration, and communication systems for aer
 | [Mapping](https://github.com/Pakgard007/Mapping) | 🛺 Golf cart — 3D mapping (LIO-SAM) |
 | [Localize_get_path](https://github.com/Pakgard007/Localize_get_path) | 🛺 Golf cart — NDT localization & path following |
 | [golfcart-maps](https://github.com/Pakgard007/golfcart-maps) | 🛺 Golf cart — point cloud maps |
+| [ModRide](https://github.com/Pakgard007/ModRide) | 🛺 Golf cart — web 3D campus map & live cart position |
 | [3Dmap_localiz](https://github.com/Pakgard007/3Dmap_localiz) | 🛺 Golf cart — earlier mapping & localization version |
 | [Localize](https://github.com/Pakgard007/Localize) | 🛺 Golf cart — earlier localization version |
 | [ZED-2i_Lane_Object_Detection_](https://github.com/Pakgard007/ZED-2i_Lane_Object_Detection_) | 🚗 YOLOP + ZED 2i perception |
@@ -131,7 +155,7 @@ Implemented motor control, sensor integration, and communication systems for aer
 | [micro-ROS-Digipot-Servo-Control-Node](https://github.com/Pakgard007/micro-ROS-Digipot-Servo-Control-Node) | 🔌 micro-ROS control node |
 | [micro-ROS-and-install_rosHumble](https://github.com/Pakgard007/micro-ROS-and-install_rosHumble) | 🔌 micro-ROS setup guide |
 | [smartdrone_edu_python](https://github.com/Pakgard007/smartdrone_edu_python) | 🚁 Drone Python course |
-| [INC493_final](https://github.com/Pakgard007/INC493_final) | 🎓 INC493 course final project |
+| [INC493_final](https://github.com/Pakgard007/INC493_final) | 🏎️ RC car (VESC + LiDAR + micro-ROS) — INC493 final project |
 
 ---
 
@@ -146,6 +170,7 @@ Implemented motor control, sensor integration, and communication systems for aer
 ### 🧰 Tools & Frameworks  
 - 🤖 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ros/ros-original.svg" width="24"/> **ROS 2 (Robot Operating System)** · micro-ROS  
 - 🗺️ **LIO-SAM / NDT localization / PCL** · Ouster LiDAR · u-blox RTK GNSS  
+- 🌐 **MapLibre GL / three.js** – web 3D maps  
 - 🔌 <img src="https://img.icons8.com/color/24/000000/arduino.png"/> **Arduino IDE / PlatformIO** · **STM32CubeIDE**  
 - 💻 <img src="https://img.icons8.com/fluent/24/000000/visual-studio-code-2019.png"/> **VS Code**  
 - 🏗️ **AutoCAD / SketchUp / Lumion**  
