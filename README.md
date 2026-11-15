@@ -77,11 +77,11 @@ watch the cart's live position streamed from the localization stack.
   </tr>
   <tr>
     <td width="50%"><img src="https://github.com/Pakgard007/Localize_get_path/blob/main/docs/rviz-campus.gif?raw=true" /></td>
-    <td width="50%"><img src="https://github.com/Pakgard007/Mapping/blob/main/docs/golfcart_low_level_control_overview.png?raw=true" /></td>
+    <td width="50%"><img src="https://github.com/Pakgard007/Localize_get_path/blob/main/docs/cart-launcher.png?raw=true" /></td>
   </tr>
   <tr>
     <td align="center"><sub>Driving through campus buildings on the localization map</sub></td>
-    <td align="center"><sub>Low-level control: ROS 2 ↔ CAN ↔ STM32 + KEYA steering</sub></td>
+    <td align="center"><sub>Cart Launcher — custom RViz panel that starts every step with one button</sub></td>
   </tr>
 </table>
 
