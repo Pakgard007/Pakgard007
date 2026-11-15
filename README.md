@@ -170,7 +170,7 @@ Implemented motor control, sensor integration, and communication systems for aer
 ## 💻 Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,bash,ros,arduino,linux,ubuntu,vscode,git,threejs,figma,ps,pr&perline=7" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,bash,ros,arduino,linux,ubuntu,vscode,git,threejs,figma&perline=6" />
 </p>
 
 | Area | Stack |
@@ -181,7 +181,7 @@ Implemented motor control, sensor integration, and communication systems for aer
 | 🔌 **Embedded** | STM32CubeIDE · Arduino IDE / PlatformIO · SocketCAN · MCP2515 CAN modules · VESC |
 | 👁️ **Perception** | ZED SDK · YOLOP |
 | 🌐 **Web** | MapLibre GL · three.js |
-| 🎨 **Design** | AutoCAD · SketchUp · Lumion · Photoshop · Figma · Premiere Pro |
+| 🎨 **Design** | AutoCAD · SketchUp · Lumion · Figma |
 
 ---
 
