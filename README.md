@@ -68,12 +68,20 @@ watch the cart's live position streamed from the localization stack.
 
 <table>
   <tr>
-    <td width="50%"><img src="https://github.com/Pakgard007/ModRide/blob/main/docs/screenshot-desktop.png?raw=true" /></td>
+    <td width="50%"><img src="https://github.com/Pakgard007/Localize_get_path/blob/main/docs/rviz-chase.gif?raw=true" /></td>
+    <td width="50%"><img src="https://github.com/Pakgard007/ModRide/blob/main/docs/demo-live.gif?raw=true" /></td>
+  </tr>
+  <tr>
+    <td align="center"><sub>🎬 Real drive — live LiDAR scan (orange) matched to the 3D map (NDT)</sub></td>
+    <td align="center"><sub>🎬 ModRide web app — the cart's live position on the campus map</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="https://github.com/Pakgard007/Localize_get_path/blob/main/docs/rviz-campus.gif?raw=true" /></td>
     <td width="50%"><img src="https://github.com/Pakgard007/Mapping/blob/main/docs/golfcart_low_level_control_overview.png?raw=true" /></td>
   </tr>
   <tr>
-    <td align="center"><sub>ModRide — 3D campus map with live cart position</sub></td>
-    <td align="center"><sub>Low-level control: ROS 2 ↔ CAN ↔ STM32 (speed / brake) + KEYA steering</sub></td>
+    <td align="center"><sub>Driving through campus buildings on the localization map</sub></td>
+    <td align="center"><sub>Low-level control: ROS 2 ↔ CAN ↔ STM32 + KEYA steering</sub></td>
   </tr>
 </table>
 
