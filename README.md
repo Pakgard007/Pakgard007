@@ -63,7 +63,7 @@ watch the cart's live position streamed from the localization stack.
 |---|---|
 | 🗺️ [**Mapping**](https://github.com/Pakgard007/Mapping) | LIO-SAM (Ouster 128 + GPS + wheel speed), mapping RViz panel, NTRIP client, CAN low-level, STM32 firmware |
 | 📍 [**Localize_get_path**](https://github.com/Pakgard007/Localize_get_path) | NDT localization, cart RViz panel, path follower, CBF-QP controller, campus buildings overlay |
-| 💾 [**golfcart-maps**](https://github.com/Pakgard007/golfcart-maps) | Point cloud maps (`.pcd`) in Releases |
+| 💾 [**golfcart-maps**](https://github.com/Pakgard007/golfcart-maps) | 3D point cloud map of the campus (36M points, `.pcd`) |
 | 🐜 [**ModRide**](https://github.com/Pakgard007/ModRide) | Web 3D campus map: pick a building, pickup points, live 3D cart position (MapLibre + three.js) |
 
 <table>
@@ -190,9 +190,6 @@ Implemented motor control, sensor integration, and communication systems for aer
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pakgard007&theme=tokyonight" height="165" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pakgard007&theme=tokyonight" height="165" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Pakgard007&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
